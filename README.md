@@ -1,6 +1,6 @@
 # Employee-Management-System
 
-A web application developed using Agile methodologies to manage employee records and project data, named Genze Align Technologies.
+A web application developed using Agile methodologies to manage employee records and project data, named Thamilan IT Solutions.
 
 # Overview
 
